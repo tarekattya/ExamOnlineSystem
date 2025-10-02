@@ -1,0 +1,385 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\ExamOnlineSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F3C4CA-408F-48AF-9824-B0C45B2DA679}|ExamOnlineSystem.csproj|f:\\examonlinesystem\\persistence\\migrations\\20251002075827_addidentitytables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F3C4CA-408F-48AF-9824-B0C45B2DA679}|ExamOnlineSystem.csproj|solutionrelative:persistence\\migrations\\20251002075827_addidentitytables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F3C4CA-408F-48AF-9824-B0C45B2DA679}|ExamOnlineSystem.csproj|f:\\examonlinesystem\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C9F3C4CA-408F-48AF-9824-B0C45B2DA679}|ExamOnlineSystem.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F3C4CA-408F-48AF-9824-B0C45B2DA679}|ExamOnlineSystem.csproj|f:\\examonlinesystem\\dependanceinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F3C4CA-408F-48AF-9824-B0C45B2DA679}|ExamOnlineSystem.csproj|solutionrelative:dependanceinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F3C4CA-408F-48AF-9824-B0C45B2DA679}|ExamOnlineSystem.csproj|f:\\examonlinesystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F3C4CA-408F-48AF-9824-B0C45B2DA679}|ExamOnlineSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F3C4CA-408F-48AF-9824-B0C45B2DA679}|ExamOnlineSystem.csproj|f:\\examonlinesystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C9F3C4CA-408F-48AF-9824-B0C45B2DA679}|ExamOnlineSystem.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F3C4CA-408F-48AF-9824-B0C45B2DA679}|ExamOnlineSystem.csproj|f:\\examonlinesystem\\shared\\error\\error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F3C4CA-408F-48AF-9824-B0C45B2DA679}|ExamOnlineSystem.csproj|solutionrelative:shared\\error\\error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F3C4CA-408F-48AF-9824-B0C45B2DA679}|ExamOnlineSystem.csproj|f:\\examonlinesystem\\shared\\resultpattern\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F3C4CA-408F-48AF-9824-B0C45B2DA679}|ExamOnlineSystem.csproj|solutionrelative:shared\\resultpattern\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F3C4CA-408F-48AF-9824-B0C45B2DA679}|ExamOnlineSystem.csproj|f:\\examonlinesystem\\shared\\error\\apivalidationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F3C4CA-408F-48AF-9824-B0C45B2DA679}|ExamOnlineSystem.csproj|solutionrelative:shared\\error\\apivalidationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F3C4CA-408F-48AF-9824-B0C45B2DA679}|ExamOnlineSystem.csproj|f:\\examonlinesystem\\infrastructure\\auth\\ijwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F3C4CA-408F-48AF-9824-B0C45B2DA679}|ExamOnlineSystem.csproj|solutionrelative:infrastructure\\auth\\ijwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F3C4CA-408F-48AF-9824-B0C45B2DA679}|ExamOnlineSystem.csproj|f:\\examonlinesystem\\infrastructure\\auth\\jwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F3C4CA-408F-48AF-9824-B0C45B2DA679}|ExamOnlineSystem.csproj|solutionrelative:infrastructure\\auth\\jwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F3C4CA-408F-48AF-9824-B0C45B2DA679}|ExamOnlineSystem.csproj|f:\\examonlinesystem\\middlewares\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F3C4CA-408F-48AF-9824-B0C45B2DA679}|ExamOnlineSystem.csproj|solutionrelative:middlewares\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F3C4CA-408F-48AF-9824-B0C45B2DA679}|ExamOnlineSystem.csproj|f:\\examonlinesystem\\shared\\error\\apiexceptionerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F3C4CA-408F-48AF-9824-B0C45B2DA679}|ExamOnlineSystem.csproj|solutionrelative:shared\\error\\apiexceptionerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F3C4CA-408F-48AF-9824-B0C45B2DA679}|ExamOnlineSystem.csproj|f:\\examonlinesystem\\shared\\auth\\dtos\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F3C4CA-408F-48AF-9824-B0C45B2DA679}|ExamOnlineSystem.csproj|solutionrelative:shared\\auth\\dtos\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F3C4CA-408F-48AF-9824-B0C45B2DA679}|ExamOnlineSystem.csproj|f:\\examonlinesystem\\shared\\error\\auth\\autherrors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F3C4CA-408F-48AF-9824-B0C45B2DA679}|ExamOnlineSystem.csproj|solutionrelative:shared\\error\\auth\\autherrors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F3C4CA-408F-48AF-9824-B0C45B2DA679}|ExamOnlineSystem.csproj|f:\\examonlinesystem\\shared\\auth\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F3C4CA-408F-48AF-9824-B0C45B2DA679}|ExamOnlineSystem.csproj|solutionrelative:shared\\auth\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F3C4CA-408F-48AF-9824-B0C45B2DA679}|ExamOnlineSystem.csproj|f:\\examonlinesystem\\shared\\options\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F3C4CA-408F-48AF-9824-B0C45B2DA679}|ExamOnlineSystem.csproj|solutionrelative:shared\\options\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F3C4CA-408F-48AF-9824-B0C45B2DA679}|ExamOnlineSystem.csproj|f:\\examonlinesystem\\dbinitlizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F3C4CA-408F-48AF-9824-B0C45B2DA679}|ExamOnlineSystem.csproj|solutionrelative:dbinitlizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F3C4CA-408F-48AF-9824-B0C45B2DA679}|ExamOnlineSystem.csproj|f:\\examonlinesystem\\shared\\auth\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F3C4CA-408F-48AF-9824-B0C45B2DA679}|ExamOnlineSystem.csproj|solutionrelative:shared\\auth\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F3C4CA-408F-48AF-9824-B0C45B2DA679}|ExamOnlineSystem.csproj|f:\\examonlinesystem\\infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F3C4CA-408F-48AF-9824-B0C45B2DA679}|ExamOnlineSystem.csproj|solutionrelative:infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F3C4CA-408F-48AF-9824-B0C45B2DA679}|ExamOnlineSystem.csproj|f:\\examonlinesystem\\shared\\resultpattern\\resultextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F3C4CA-408F-48AF-9824-B0C45B2DA679}|ExamOnlineSystem.csproj|solutionrelative:shared\\resultpattern\\resultextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 268,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\ExamOnlineSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\ExamOnlineSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T07:11:49.797Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20251002075827_AddIdentityTables.cs",
+              "DocumentMoniker": "F:\\ExamOnlineSystem\\Persistence\\Migrations\\20251002075827_AddIdentityTables.cs",
+              "RelativeDocumentMoniker": "Persistence\\Migrations\\20251002075827_AddIdentityTables.cs",
+              "ToolTip": "F:\\ExamOnlineSystem\\Persistence\\Migrations\\20251002075827_AddIdentityTables.cs",
+              "RelativeToolTip": "Persistence\\Migrations\\20251002075827_AddIdentityTables.cs",
+              "ViewState": "AgIAAOEAAAAAAAAAAAAYwOIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T07:58:30.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "F:\\ExamOnlineSystem\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "F:\\ExamOnlineSystem\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-02T07:50:29.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Result.cs",
+              "DocumentMoniker": "F:\\ExamOnlineSystem\\Shared\\ResultPattern\\Result.cs",
+              "RelativeDocumentMoniker": "Shared\\ResultPattern\\Result.cs",
+              "ToolTip": "F:\\ExamOnlineSystem\\Shared\\ResultPattern\\Result.cs",
+              "RelativeToolTip": "Shared\\ResultPattern\\Result.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T07:36:17.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Error.cs",
+              "DocumentMoniker": "F:\\ExamOnlineSystem\\Shared\\Error\\Error.cs",
+              "RelativeDocumentMoniker": "Shared\\Error\\Error.cs",
+              "ToolTip": "F:\\ExamOnlineSystem\\Shared\\Error\\Error.cs",
+              "RelativeToolTip": "Shared\\Error\\Error.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T07:32:43.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthErrors.cs",
+              "DocumentMoniker": "F:\\ExamOnlineSystem\\Shared\\Error\\Auth\\AuthErrors.cs",
+              "RelativeDocumentMoniker": "Shared\\Error\\Auth\\AuthErrors.cs",
+              "ToolTip": "F:\\ExamOnlineSystem\\Shared\\Error\\Auth\\AuthErrors.cs",
+              "RelativeToolTip": "Shared\\Error\\Auth\\AuthErrors.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T07:31:42.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthResponse.cs",
+              "DocumentMoniker": "F:\\ExamOnlineSystem\\Shared\\Auth\\Dtos\\AuthResponse.cs",
+              "RelativeDocumentMoniker": "Shared\\Auth\\Dtos\\AuthResponse.cs",
+              "ToolTip": "F:\\ExamOnlineSystem\\Shared\\Auth\\Dtos\\AuthResponse.cs",
+              "RelativeToolTip": "Shared\\Auth\\Dtos\\AuthResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T07:29:51.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JwtProvider.cs",
+              "DocumentMoniker": "F:\\ExamOnlineSystem\\Infrastructure\\Auth\\JwtProvider.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Auth\\JwtProvider.cs",
+              "ToolTip": "F:\\ExamOnlineSystem\\Infrastructure\\Auth\\JwtProvider.cs",
+              "RelativeToolTip": "Infrastructure\\Auth\\JwtProvider.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T07:27:51.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IJwtProvider.cs",
+              "DocumentMoniker": "F:\\ExamOnlineSystem\\Infrastructure\\Auth\\IJwtProvider.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Auth\\IJwtProvider.cs",
+              "ToolTip": "F:\\ExamOnlineSystem\\Infrastructure\\Auth\\IJwtProvider.cs",
+              "RelativeToolTip": "Infrastructure\\Auth\\IJwtProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T07:27:35.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DependanceInjection.cs",
+              "DocumentMoniker": "F:\\ExamOnlineSystem\\DependanceInjection.cs",
+              "RelativeDocumentMoniker": "DependanceInjection.cs",
+              "ToolTip": "F:\\ExamOnlineSystem\\DependanceInjection.cs",
+              "RelativeToolTip": "DependanceInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T07:17:23.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\ExamOnlineSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "F:\\ExamOnlineSystem\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-02T07:45:08.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "F:\\ExamOnlineSystem\\Middlewares\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "Middlewares\\ExceptionMiddleware.cs",
+              "ToolTip": "F:\\ExamOnlineSystem\\Middlewares\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "Middlewares\\ExceptionMiddleware.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T06:26:24.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApiValidationResponse.cs",
+              "DocumentMoniker": "F:\\ExamOnlineSystem\\Shared\\Error\\ApiValidationResponse.cs",
+              "RelativeDocumentMoniker": "Shared\\Error\\ApiValidationResponse.cs",
+              "ToolTip": "F:\\ExamOnlineSystem\\Shared\\Error\\ApiValidationResponse.cs",
+              "RelativeToolTip": "Shared\\Error\\ApiValidationResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T07:42:55.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "F:\\ExamOnlineSystem\\Shared\\Auth\\Dtos\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "Shared\\Auth\\Dtos\\LoginRequest.cs",
+              "ToolTip": "F:\\ExamOnlineSystem\\Shared\\Auth\\Dtos\\LoginRequest.cs",
+              "RelativeToolTip": "Shared\\Auth\\Dtos\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T07:30:01.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApiExceptionError.cs",
+              "DocumentMoniker": "F:\\ExamOnlineSystem\\Shared\\Error\\ApiExceptionError.cs",
+              "RelativeDocumentMoniker": "Shared\\Error\\ApiExceptionError.cs",
+              "ToolTip": "F:\\ExamOnlineSystem\\Shared\\Error\\ApiExceptionError.cs",
+              "RelativeToolTip": "Shared\\Error\\ApiExceptionError.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T06:28:06.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "jwtSettings.cs",
+              "DocumentMoniker": "F:\\ExamOnlineSystem\\Shared\\Options\\jwtSettings.cs",
+              "RelativeDocumentMoniker": "Shared\\Options\\jwtSettings.cs",
+              "ToolTip": "F:\\ExamOnlineSystem\\Shared\\Options\\jwtSettings.cs",
+              "RelativeToolTip": "Shared\\Options\\jwtSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T07:19:33.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "F:\\ExamOnlineSystem\\Shared\\Auth\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Shared\\Auth\\ApplicationUser.cs",
+              "ToolTip": "F:\\ExamOnlineSystem\\Shared\\Auth\\ApplicationUser.cs",
+              "RelativeToolTip": "Shared\\Auth\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T07:09:12.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "F:\\ExamOnlineSystem\\Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "ToolTip": "F:\\ExamOnlineSystem\\Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T06:44:45.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DbInitlizer.cs",
+              "DocumentMoniker": "F:\\ExamOnlineSystem\\DbInitlizer.cs",
+              "RelativeDocumentMoniker": "DbInitlizer.cs",
+              "ToolTip": "F:\\ExamOnlineSystem\\DbInitlizer.cs",
+              "RelativeToolTip": "DbInitlizer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T06:38:37.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ResultExtension.cs",
+              "DocumentMoniker": "F:\\ExamOnlineSystem\\Shared\\ResultPattern\\ResultExtension.cs",
+              "RelativeDocumentMoniker": "Shared\\ResultPattern\\ResultExtension.cs",
+              "ToolTip": "F:\\ExamOnlineSystem\\Shared\\ResultPattern\\ResultExtension.cs",
+              "RelativeToolTip": "Shared\\ResultPattern\\ResultExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T06:08:13.542Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
