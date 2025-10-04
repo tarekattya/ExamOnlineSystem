@@ -172,3 +172,4 @@ F:\ExamOnlineSystem\obj\Debug\net9.0\ref\ExamOnlineSystem.dll
 F:\ExamOnlineSystem\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
 F:\ExamOnlineSystem\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 F:\ExamOnlineSystem\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\ExamOnlineSystem\obj\Debug\net9.0\ExamOnlineSystem.sourcelink.json
