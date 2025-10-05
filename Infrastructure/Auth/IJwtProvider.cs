@@ -9,7 +9,7 @@ namespace ExamOnlineSystem.Infrastructure.Auth
 {
     public interface IJwtProvider
     {
-        (string token, int expiresIn) GenerateToken(ApplicationUser user);
+        (string token, int expiresIn) GenerateToken(ApplicationUser user , IEnumerable<string> Roles);
         string? ValidateToken(string token);
     }
 }

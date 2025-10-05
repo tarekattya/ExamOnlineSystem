@@ -6,10 +6,12 @@ using Microsoft.Extensions.Options;
 using Microsoft.IdentityModel.Tokens;
 using System;
 using System.Collections.Generic;
+using System.Data;
 using System.IdentityModel.Tokens.Jwt;
 using System.Linq;
 using System.Security.Claims;
 using System.Text;
+using System.Text.Json;
 using System.Threading.Tasks;
 
 namespace ExamOnlineSystem.Application.Auth
@@ -18,15 +20,17 @@ namespace ExamOnlineSystem.Application.Auth
     {
         private readonly jwtSettings _options = options.Value;
 
-        public (string token, int expiresIn) GenerateToken(ApplicationUser user)
+        public (string token, int expiresIn) GenerateToken(ApplicationUser user ,  IEnumerable<string> Roles)
         {
-            Claim[] claims = [
+             var claims = new List<Claim> {
 
                 new Claim(JwtRegisteredClaimNames.Sub , user.Id),
                 new Claim(JwtRegisteredClaimNames.Email , user.Email!),
                 new Claim(JwtRegisteredClaimNames.Name , user.FullName),
                 new Claim(JwtRegisteredClaimNames.Jti , Guid.NewGuid().ToString())
-                ];
+                };
+
+                 claims.AddRange(Roles.Select(role => new Claim(ClaimTypes.Role, role)));
 
             var symmetricSecurityKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_options.Key));
 
